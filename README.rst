@@ -11,7 +11,7 @@ This repository serves as a space for the Tachyon Community Working Group to man
 
 What we do:
 -----------
-* [Neutrino Framework](https://waffle.io/infrascloudy/nfw)
+* `Neutrino Framework`__
 * [Tachyon Common](https://waffle.io/infrascloudy/tachyon_common)
 * [Tachyon API](https://waffle.io/infrascloudy/tachyon_api)
 * [Tachyon UI](https://waffle.io/infrascloudy/tachyon_ui)
@@ -23,3 +23,7 @@ Our Goals:
 * Provide guidance and advice to other working groups in the community
 * Facilitate the creation of new initiatives and Working Groups
 * Do all of this by KEEPING THINGS SIMPLE.
+
+
+.. _Framework: https://waffle.io/infrascloudy/nfw
+__ Framework_
