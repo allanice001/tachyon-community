@@ -9,6 +9,14 @@ We help to support and grow InfrasCloudy / Tachyon Project community of contribu
 
 This repository serves as a space for the Tachyon Community Working Group to manage tools used by the Tachyon community, monitor progress on new initiatives, and handle requests for resources or help by various Working Groups in the wider community.
 
+What we do:
+-----------
+* [Neutrino Framework](https://waffle.io/infrascloudy/nfw)
+* [Tachyon Common](https://waffle.io/infrascloudy/tachyon_common)
+* [Tachyon API](https://waffle.io/infrascloudy/tachyon_api)
+* [Tachyon UI](https://waffle.io/infrascloudy/tachyon_ui)
+* [Community Board](https://waffle.io/infrascloudy/tachyon-community)
+
 Our Goals:
 ----------
 * Encourage transparency, collaboration, and accountability through tooling and lightweight project tracking and/or management
